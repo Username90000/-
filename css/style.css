@@ -1,0 +1,20 @@
+html {
+  background: rgb(0, 247, 255);
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(3, 158, 11, 0.658);
+}
+.terrib {
+  width: 100vw;
+  height: 700px;
+}
+.poet {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(3, 158, 11, 0.658)
+}
