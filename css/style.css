@@ -13,8 +13,36 @@ header {
 }
 .poet {
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   background-color: rgba(3, 158, 11, 0.658)
+}
+
+.terrib {
+  width: 100vw;
+  height: 700px;
+}
+.pol{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.TOP3{
+  width: 500px;
+  height: 500px;
+  box-shadow: 4px 4px 4px 4px;
+  background-color: rgb(30, 97, 3)
+}
+.TOP2{
+  width: 500px;
+  height: 500px;
+  box-shadow: 4px 4px 4px 4px;
+  background-color: rgb(6, 224, 177)
+}
+.TOP1{
+  width: 500px;
+  height: 500px;
+  box-shadow: 4px 4px 4px 4px;
+  background-color: rgb(255, 0, 0)
 }
