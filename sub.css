@@ -1,0 +1,13 @@
+.powers{
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 103, 15)
+}
+html{
+    background-color: rgba(165, 206, 19, 0.664)
+}.Tor{
+    width: 1500px;
+    margin: 40px; ;
+}
