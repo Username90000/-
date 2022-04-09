@@ -1,6 +1,6 @@
-let red = 0
-let blue = 0
-let green = 0
+let red = 95
+let blue = 78
+let green = 56
 // setInterval(() => {
 //     if (red < 256) {
 //         for (red; red <= 255; red++) 
